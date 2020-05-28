@@ -1,7 +1,6 @@
 
 # to create a new file
-
-
+________________________________________
 Dynamic app
 
       git init 
@@ -29,10 +28,12 @@ static app
 
 
 **site is live
-________________________________________
-to change
 
-      Dynamic website-
+
+
+________________________________________
+# to change in the existing website
+Dynamic website-
 
       git add .
       git commit -m "-------"
@@ -41,9 +42,11 @@ to change
 
 
 **site is live
-________________________________________
 
-      static app
+
+
+________________________________________
+static app
 
       git add .
       git commit -m "-------"

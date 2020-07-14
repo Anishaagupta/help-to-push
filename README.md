@@ -2,7 +2,6 @@
 # to create a new file
 ________________________________________
 Dynamic app
-
       git init 
       git add .
       git commit -m "-------"
